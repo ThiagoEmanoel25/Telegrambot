@@ -1,7 +1,4 @@
-/*
- * bot.js (Versão com Telegraf + ML + API)
- * Este é o seu bot principal.
- */
+
 require("dotenv").config(); // Carrega o .env
 
 const { Telegraf, session } = require("telegraf");
